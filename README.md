@@ -18,7 +18,7 @@
     <a href="https://github.com/asrorbekaliqulov">
       <img src="https://img.shields.io/badge/Focus-Distributed_Systems-8B5CF6?style=for-the-badge" alt="Focus" />
     </a>
-    <a href="https://t.me/asrorbekaliqulov" target="_blank">
+    <a href="https://t.me/aliqulovasrorbek" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </p>
